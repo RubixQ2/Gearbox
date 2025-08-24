@@ -10,4 +10,4 @@ A collection of **cybersecurity tools** and **wordlists** for penetration testin
 
 ## 🚀 Usage
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/RubixQ2/Gearbox.git
