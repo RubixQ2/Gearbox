@@ -1,6 +1,6 @@
 # AI-Powered Tools
 
-ShellGPT		      - AI-powered tool that enhances accuracy in managing complex systems, writing code, and automating shell/command-line tasks.
+ShellGPT		     - AI-powered tool that enhances accuracy in managing complex systems, writing code, and automating shell/command-line tasks.
 AutoGPT         	- Automates task execution using autonomous AI agents.
 WormGPT         	- Automates the generation of worm-like scripts and payloads.
 ChatGPT         	- General-purpose conversational AI; also used with DAN prompt (Do Anything Now).
@@ -16,6 +16,6 @@ GPTWhitehat     	- AI focused on ethical hacking and white-hat security practice
 CybGPT          	- AI assistant for general cybersecurity tasks.
 BugHunter API  		- AI + API for bug hunting and vulnerability analysis.
 h4ckGPT         	- Hacker-focused AI tool for automating red/blue team workflows.
-HackerNewsGPT		  - AI-powered summarizer and analysis of Hacker News content.
+HackerNewsGPT		 - AI-powered summarizer and analysis of Hacker News content.
 EthicalHackingGPT	- AI assistant tailored for ethical hacking learning and practice.
 GP(en)T(ester)  	- GPT-based penetration testing helper.
