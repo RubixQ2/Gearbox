@@ -1,21 +1,41 @@
-# AI-Powered Tools
+===========================
+       AI-POWERED TOOLS
+===========================
 
-ShellGPT		     - AI-powered tool that enhances accuracy in managing complex systems, writing code, and automating shell/command-line tasks.
-AutoGPT         	- Automates task execution using autonomous AI agents.
-WormGPT         	- Automates the generation of worm-like scripts and payloads.
-ChatGPT         	- General-purpose conversational AI; also used with DAN prompt (Do Anything Now).
-FreedomGPT      	- Privacy-focused AI chatbot alternative to ChatGPT.
-FraudGPT        	- Designed to detect and prevent fraudulent activities.
-ChaosGPT        	- Experimental AI agent with autonomous decision-making capabilities.
-PoisonGPT       	- AI tool used to demonstrate data poisoning risks in AI models.
-HackerGPT       	- AI assistant focused on offensive and defensive cybersecurity use cases.
-BurpGPT         	- (https://www.burpgpt.app) AI integration with Burp Suite for pentesting assistance.
-BugBountyGPT    	- AI tool designed for bug bounty hunters.
-PentestGPT      	- AI assistant for penetration testing tasks.
-GPTWhitehat     	- AI focused on ethical hacking and white-hat security practices.
-CybGPT          	- AI assistant for general cybersecurity tasks.
-BugHunter API  		- AI + API for bug hunting and vulnerability analysis.
-h4ckGPT         	- Hacker-focused AI tool for automating red/blue team workflows.
-HackerNewsGPT		 - AI-powered summarizer and analysis of Hacker News content.
-EthicalHackingGPT	- AI assistant tailored for ethical hacking learning and practice.
-GP(en)T(ester)  	- GPT-based penetration testing helper.
+ShellGPT 			– https://shellgpt.com/ 					– Enhances accuracy in managing complex systems, writing code, and automating shell/command-line tasks.
+Auto-GPT	 		– https://github.com/Torantulino/Auto-GPT 	– Automates task execution using autonomous AI agents.
+WormGPT 	 		– https://github.com/WormGPT-project 		– Automates the generation of worm-like scripts and payloads.
+ChatGPT 	 		– https://chat.openai.com/ 					– General-purpose conversational AI; also used with DAN prompt (Do Anything Now).
+FreedomGPT 	 		– https://freedomgpt.com/ 					– Privacy-focused AI chatbot alternative to ChatGPT.
+FraudGPT 	 		– https://github.com/FraudGPT 				– Designed to detect and prevent fraudulent activities.
+ChaosGPT 	 		– https://github.com/ChaosGPT 				– Experimental AI agent with autonomous decision-making capabilities.
+PoisonGPT 	 		– https://github.com/PoisonGPT 				– Demonstrates data poisoning risks in AI models.
+HackerGPT 			– https://github.com/HackerGPT 				– AI assistant focused on offensive and defensive cybersecurity use cases.
+BurpGPT 			– https://www.burpgpt.app 					– AI integration with Burp Suite for pentesting assistance.
+BugBountyGPT 		– https://github.com/BugBountyGPT 			– AI tool designed for bug bounty hunters.
+PentestGPT 			– https://github.com/PentestGPT 			– AI assistant for penetration testing tasks.
+GPTWhitehat 		– https://github.com/GPTWhitehat 			– AI focused on ethical hacking and white-hat security practices.
+CybGPT 				– https://github.com/CybGPT 				– AI assistant for general cybersecurity tasks.
+BugHunter API 		– https://github.com/BugHunter-API 			– AI + API for bug hunting and vulnerability analysis.
+h4ckGPT 			– https://github.com/h4ckGPT 				– Hacker-focused AI tool for automating red/blue team workflows.
+HackerNewsGPT 		– https://github.com/HackerNewsGPT 			– AI-powered summarizer and analysis of Hacker News content.
+EthicalHackingGPT 	– https://github.com/EthicalHackingGPT 		– AI assistant tailored for ethical hacking learning and practice.
+GP(en)T(ester) 		– https://github.com/GPenTtester 			– GPT-based penetration testing helper.
+
+
+===========================
+       LEGAL DISCLAIMER
+===========================
+This list is provided for educational and authorized cybersecurity 
+research purposes only.
+
+⚠️ Use of AI tools to exploit, attack, or harm systems without explicit 
+permission is illegal and unethical.
+
+Always limit usage to:
+- Systems you own
+- Systems you are authorized to test
+- Controlled lab environments
+
+The author assumes no responsibility for misuse of these AI tools.
+Use responsibly, ethically, and legally.
