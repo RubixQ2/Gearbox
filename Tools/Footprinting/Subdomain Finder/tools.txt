@@ -1,0 +1,35 @@
+===========================
+   SUBDOMAIN FINDER TOOLS
+===========================
+
+🔹 Subdomain Enumeration Tools
+-------------------------------
+
+Photon              - https://github.com/s0md3v/Photon          - Fast crawler designed for reconnaissance and subdomain discovery; gathers URLs, files, and other info from target domains.
+Sublist3r           - https://github.com/aboul3la/Sublist3r       - Fast subdomain enumeration tool using OSINT sources.
+Amass               - https://github.com/OWASP/Amass             - Advanced network mapping and subdomain enumeration framework.
+Assetfinder         - https://github.com/tomnomnom/assetfinder     - Finds subdomains and assets for a given domain using passive sources.
+Subfinder           - https://github.com/projectdiscovery/subfinder - Fast passive subdomain enumeration tool.
+Knockpy             - https://github.com/guelfoweb/knock           - Python tool for subdomain enumeration and pattern recognition.
+CTFR                - https://github.com/UnaPibaGeek/ctfr          - Fetches subdomains from Certificate Transparency logs.
+Findomain           - https://github.com/Findomain/Findomain       - Cross-platform subdomain discovery tool with fast enumeration.
+TheHarvester        - https://github.com/laramies/theHarvester     - OSINT tool to gather emails, subdomains, hosts, and related info.
+Netcraft            - https://www.netcraft.com/                     - Online platform to gather domain and hosting information including subdomains.
+crt.sh              - https://crt.sh/                               - Certificate Transparency search engine for discovering subdomains.
+SecurityTrails      - https://securitytrails.com/                  - Platform to explore subdomains, DNS records, and domain history.
+IntelX              - https://intelx.io/                             - OSINT platform to search historical data, subdomains, and exposed assets.
+Spyse               - https://spyse.com/                            - OSINT platform for discovering subdomains and exposed assets.
+
+===========================
+   LEGAL DISCLAIMER
+===========================
+These tools are intended for educational, research, and authorized security testing purposes only.
+
+⚠️ Unauthorized use to access, map, or exploit domains without explicit permission is illegal and may violate computer misuse and privacy laws.
+
+Use these tools only on:
+- Domains you own
+- Domains you have written consent to test
+- Controlled lab environments for learning
+
+The author assumes no responsibility for misuse of this information. Always act ethically and within the boundaries of the law.

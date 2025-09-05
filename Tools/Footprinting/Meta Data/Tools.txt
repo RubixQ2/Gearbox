@@ -1,0 +1,25 @@
+===========================
+   METADATA FOOTPRINTING & FORENSIC TOOLS
+===========================
+
+🔹 Reverse Metadata Extraction 
+------------------------------
+
+ExifTool              				- https://exif.tools/                     				- Command-line tool to read, write, and edit metadata in images, videos, and documents.
+Metadata2Go           				- https://www.metadata2go.com/            				- Online tool to view hidden metadata in images, documents, audio, and video.
+Jeffrey’s Image Metadata Viewer 	- http://exif.regex.info/exif.cgi    					- Online EXIF viewer showing camera info, GPS, and editing history.
+Exif Pilot            				- https://www.colorpilot.com/exif.html    				- Windows tool to view, create, and edit image metadata.
+Metapicz              				- https://www.metapicz.com/                				- Online EXIF metadata viewer and analyzer.
+JPEGsnoop            				- https://impulseadventure.com/photo/jpeg-snoop.html 	- Analyze JPEG compression and detect tampering.
+FOCA                  				- https://www.elevenpaths.com/labstools/foca/index.html - Extracts metadata from documents and analyzes network footprinting.
+
+🔹 Metadata Removal 
+------------------
+
+mat2 (CLI)            - https://0xacab.org/jvoisin/mat2         - Command-line tool to analyze and remove metadata for privacy protection.
+Exif Remover          - https://www.verexif.com/en/              - Remove EXIF metadata from images for privacy protection.
+MetaCleaner           - https://www.metadata-cleaner.com/       - Cross-platform metadata removal tool for documents, images, and PDFs.
+PDF Redactor          - https://www.pdf-redactor.com/           - Removes hidden metadata and sensitive information from PDF files.
+ExifCleaner (Mac)     - https://apps.apple.com/app/exifcleaner/id1440908495 - Mac app to remove EXIF metadata from photos.
+MAT: Metadata Anonymisation Toolkit - https://0xacab.org/jvoisin/mat2   - Open-source tool to strip metadata from images and documents.
+

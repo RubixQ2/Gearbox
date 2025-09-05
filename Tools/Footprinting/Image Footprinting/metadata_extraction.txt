@@ -1,8 +1,0 @@
-# Metadata Extraction Tools
-
-ExifTool 			- https://exif.tools/ 					- Command-line tool to read, write, and edit metadata in images, videos, and documents
-Metadata2Go 			- https://www.metadata2go.com/ 				- Online tool to view hidden metadata in images, documents, audio, and video
-FOCA 				- https://www.elevenpaths.com/labstools/foca/index.html - Extracts metadata from documents and analyzes network footprinting
-Jeffrey’s Image Metadata Viewer - http://exif.regex.info/exif.cgi 			- Online EXIF viewer showing camera info, GPS, and editing history
-Exif Pilot 			- https://www.colorpilot.com/exif.html 			- Windows tool to view, create, and edit image metadata
-mat2 (CLI) 			- https://0xacab.org/jvoisin/mat2 			- Command-line tool to analyze and remove metadata for privacy protection

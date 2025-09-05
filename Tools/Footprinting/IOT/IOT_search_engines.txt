@@ -1,0 +1,29 @@
+===========================
+   IoT SEARCH ENGINE
+===========================
+
+🔹 IoT Search Engines
+----------------------
+Shodan             - https://www.shodan.io/             - Search engine for internet-connected devices, including IoT devices like webcams, routers, and industrial control systems.
+Censys             - https://censys.io/                - Provides visibility into internet-connected devices and services, offering detailed information on hosts and their configurations.
+Zoomeye            - https://www.zoomeye.org/          - Chinese search engine for internet-connected devices, focusing on IoT and industrial control systems.
+Fofa               - https://fofa.so/                  - Search engine for discovering internet-connected devices and services, including IoT devices.
+BinaryEdge         - https://www.binaryedge.io/        - Provides real-time data on internet-connected devices, helping to identify vulnerabilities in IoT devices.
+Thingful           - https://www.thingful.net/         - Search engine for IoT devices, enabling users to discover and interact with internet-connected objects.
+Netlas             - https://netlas.io/features/iot_search_engine/ - IoT search engine that offers detailed insights into internet-connected devices and services, aiding in infrastructure analysis and risk assessment.
+
+
+
+===========================
+   LEGAL DISCLAIMER
+===========================
+These tools are intended for **educational, research, and authorized security testing purposes only**.
+
+⚠️ Unauthorized use to access, download, or exploit devices or services **without explicit permission** is illegal and may violate computer misuse and privacy laws.
+
+Use these tools only on:
+- Systems you own
+- Systems you have written consent to test
+- Controlled lab environments for learning
+
+The author assumes no responsibility for misuse of this information. Always act ethically and within the boundaries of the law.

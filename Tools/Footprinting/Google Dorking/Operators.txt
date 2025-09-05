@@ -1,0 +1,224 @@
+===========================
+   GOOGLE SEARCH OPERATORS
+===========================
+
+🔹 Common Operators
+----------------------
+site:        - Search within a specific website or domain
+intext:      - Find pages containing a specific word/phrase in the text
+index:       - Look for directory-style listings
+cache:       - View the cached version of a page
+link:        - Find pages linking to a specific URL
+related:     - Find sites related to a given URL
+info:        - Show information about a specific website
+allintitle:  - Search for pages with all given words in the title
+intitle:     - Search for pages with specific word in the title
+allinurl:    - Search for pages with all words in the URL
+inurl:       - Search for pages with a specific word in the URL
+location:    - Search for results from a specific location
+filetype:    - Search for files of a specific type (e.g., PDF, DOCX, XLS)
+source:      - Filter news results from a specific source
+phonebook:   - Find phone listings (deprecated but may still work)
+before:      - Results before a certain date (YYYY-MM-DD)
+after:       - Results after a certain date (YYYY-MM-DD)
+
+
+🔹 Generic TLDs (Top-Level Domains)
+----------------------
+.com   - Commercial
+.org   - Organizations (non-profit, NGOs)
+.net   - Networks / infrastructure
+.info  - Information sites
+.biz   - Business websites
+.name  - Personal websites
+.edu   - Educational institutions
+.gov   - Government websites
+.mil   - Military websites
+
+🔹 New gTLDs (ICANN Expansion)
+----------------------
+.app       - Mobile & web applications
+.blog      - Blogs & personal sites
+.shop      - E-commerce & stores
+.online    - General purpose
+.tech      - Technology-related
+.dev       - Developers & coding
+.xyz       - Generic, often used for startups
+.io        - Popular with tech & SaaS companies
+.ai        - Artificial Intelligence projects
+.cloud     - Cloud services
+.site      - General websites
+.store     - Online shops
+.co        - Companies/startups (often used as .com alternative)
+
+
+🔹 Country Code TLDs (ccTLDs)
+----------------------
+.in    - India
+.uk    - United Kingdom
+.us    - United States
+.jp    - Japan
+.de    - Germany
+.fr    - France
+.cn    - China
+.ru    - Russia
+.au    - Australia
+.ca    - Canada
+.it    - Italy
+.br    - Brazil
+.za    - South Africa
+.mx    - Mexico
+.kr    - South Korea
+.sg    - Singapore
+.ae    - United Arab Emirates
+.ng    - Nigeria
+.pk    - Pakistan
+.sa    - Saudi Arabia
+.bd	   - Bangladesh
+.id    - Indonesia 
+.my    - Malayisia
+
+
+🔹 Image File Types
+----------------------
+jpg / jpeg   - Standard image format (most common photos)
+png          - Lossless images with transparency
+webp         - Modern compressed image format by Google
+gif          - Animated or static images
+bmp          - Bitmap format (uncompressed, large size)
+tiff         - High-quality image format (used in design/printing)
+svg          - Scalable Vector Graphics (XML-based, logos/icons)
+ico          - Icon files (used in websites and software)
+heic         - High Efficiency Image Format (iPhone photos)
+raw          - Camera raw image data
+
+
+🔹 Audio File Types
+----------------------
+mp3          - Most common compressed audio format
+flac         - Lossless high-quality audio
+wav          - Uncompressed audio format
+wma          - Windows Media Audio
+aac          - Advanced Audio Coding (used in iTunes/Apple)
+m4a          - MPEG-4 audio (often Apple devices)
+ogg          - Open-source compressed audio format
+opus         - Audio codec optimized for speech/VoIP
+aiff         - Audio Interchange File Format (Apple)
+wax          - Windows Media redirect audio file
+
+
+🔹 Subtitle / Script File Types
+----------------------
+srt          - SubRip subtitle file (timed captions)
+ass          - Advanced SubStation Alpha subtitles (styled)
+vtt          - Web Video Text Tracks (used in HTML5)
+sub          - Subtitle format often paired with .idx
+
+
+🔹 Video File Types 
+----------------------
+mp4          - Most common video format (web + devices)
+mkv          - Matroska container (supports subs + multiple audio)
+avi          - Older Microsoft video format
+mov          - Apple QuickTime format
+webm         - Open-source video format for the web
+flv          - Flash Video (old streaming format)
+wmv          - Windows Media Video
+mpeg / mpg   - Standard video compression format
+3gp          - Mobile video format
+ogv          - Ogg Video container
+m4v          - MPEG-4 video (used by iTunes/Apple)
+vob          - DVD video object format
+
+
+🔹 Compressed Archive File Types 
+----------------------
+zip          - Most common compressed archive
+rar          - Proprietary compressed archive format
+7z           - 7-Zip compressed archive
+tar          - Unix/Linux archive format
+gz           - Gzip compressed files (often with tar)
+bz / bz2     - Bzip compressed files
+xz           - High compression archive format
+iso          - Disc image (CD/DVD/ISO images)
+
+
+🔹 Document File Types
+----------------------
+pdf          - Portable Document Format
+doc / docx   - Microsoft Word documents
+xls / xlsx   - Microsoft Excel spreadsheets
+ppt / pptx   - Microsoft PowerPoint presentations
+odt          - OpenDocument Text (LibreOffice, OpenOffice)
+ods          - OpenDocument Spreadsheet
+odp          - OpenDocument Presentation
+rtf          - Rich Text Format
+txt          - Plain text files
+csv          - Comma-Separated Values (spreadsheets, data)
+md           - Markdown text files
+tex          - LaTeX documents
+epub         - E-book format (open standard)
+mobi         - E-book format (Amazon Kindle)
+
+
+🔹 Web & Code File Types
+----------------------
+html / htm   - Web pages
+php          - PHP script files
+js           - JavaScript code
+css          - Stylesheets for websites
+xml          - Extensible Markup Language
+json         - Data interchange format (APIs, configs)
+yml / yaml   - Configuration files (servers, Docker, etc.)
+asp / aspx   - Active Server Pages (Microsoft web apps)
+cgi          - Common Gateway Interface scripts
+pl           - Perl scripts
+py           - Python scripts
+rb           - Ruby scripts
+sql          - Database dumps / queries
+jsp          - Java Server Pages
+sh           - Shell scripts (Linux/Unix)
+
+
+🔹 System / Executable File Types
+----------------------
+exe          - Executable files (Windows)
+bat          - Batch scripts (Windows)
+msi          - Windows installer package
+dll          - Dynamic Link Libraries (Windows system files)
+sys          - Windows system files
+apk          - Android application package
+deb          - Debian Linux package
+rpm          - Red Hat Linux package
+sh           - Linux shell script
+bin          - Binary files
+dmg          - macOS disk image
+
+
+🔹 Miscellaneous File Types
+----------------------
+psd          - Adobe Photoshop project
+ai           - Adobe Illustrator project
+indd         - Adobe InDesign project
+ics          - Calendar files
+torrent      - BitTorrent peer-to-peer sharing files
+log          - Log files (system or application records)
+bak          - Backup files
+
+===========================
+   LEGAL DISCLAIMER
+===========================
+This cheatsheet is provided for educational, research, and authorized 
+security testing purposes only.
+
+⚠️ Unauthorized use of Google Dorking techniques to access, exploit, 
+or collect data from systems without explicit permission is illegal 
+and may violate computer misuse and privacy laws.
+
+Use these techniques only on:
+- Systems you own
+- Systems you have written consent to test
+- Controlled lab environments for learning
+
+The author assumes no responsibility for misuse of this information.
+Proceed ethically and within the boundaries of the law.

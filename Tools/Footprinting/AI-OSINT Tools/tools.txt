@@ -1,0 +1,30 @@
+===========================
+   AI-POWERED FOOTPRINTING TOOLS
+===========================
+
+Taranis AI              - https://taranis.ai/               - AI platform for automated reconnaissance, risk assessment, and footprinting.  
+OSS Insight              - https://ossinsight.io/           - AI tool to analyze open-source software repositories and extract OSINT insights.  
+DorkGPT                  - https://example.com/dorkgpt       - AI tool that automates Google dorking for reconnaissance purposes.  
+Dork Genius              - https://example.com/dorkgenius    - AI-powered tool to generate and execute advanced Google dorks for footprinting.  
+Google Word Sniper       - https://example.com/googlewordsniper - AI-assisted Google search automation for reconnaissance.  
+Cylect.io                - https://cylect.io/                - AI platform for automated OSINT data collection and analysis.  
+ChatPDF                  - https://www.chatpdf.com/          - AI tool to extract and analyze information from PDFs for footprinting.  
+Bardeen.ai               - https://bardeen.ai/               - Automation tool that can collect web data and assist in OSINT tasks using AI.  
+DarkGPT                  - https://example.com/darkgpt        - AI-powered tool for dark web footprinting and OSINT.  
+PenLink Cobwebs          - https://www.penlink.com/products/cobwebs/ - AI-assisted investigation tool for web and social media footprinting.  
+Explore AI               - https://exploreai.net/             - AI platform for automated web reconnaissance and data extraction.  
+AnyPicker                - https://www.anypicker.com/        - AI-powered web scraper to automate data collection for footprinting.  
+
+===========================
+   LEGAL DISCLAIMER
+===========================
+These AI-powered footprinting tools are provided for educational, research, and authorized 
+security testing purposes only.  
+
+⚠️ Unauthorized use to scan, probe, or collect information from systems without explicit 
+permission is illegal and may violate cybersecurity and privacy laws.  
+
+Use only on:
+- Systems you own
+- Systems you have written consent to test
+- Controlled lab environments for learning  

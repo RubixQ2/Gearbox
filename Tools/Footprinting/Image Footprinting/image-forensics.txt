@@ -1,8 +1,0 @@
-# Image Forensics
-
-FotoForensics 			- https://fotoforensics.com/ 							- Image forensics tool performing pixel-level and error level analysis (ELA)
-Forensically 			- https://29a.ch/photo-forensics/#forensic-magnifier 				- Online forensic suite for clone detection, noise analysis, and ELA
-Image Edited 			- https://imageedited.com/ 							- Detects possible Photoshop/AI edits in images
-Ghiro 				- https://www.getghiro.org/ 							- Automated image forensics framework for batch analysis of images
-InVID Verification Plugin 	- https://www.invid-project.eu/tools-and-services/invid-verification-plugin/ 	- Browser plugin for verifying videos and images
-Izitru 				- http://www.izitru.com/ 							- Online image authentication service to check if an image is original

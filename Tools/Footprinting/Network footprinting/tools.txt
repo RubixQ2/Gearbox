@@ -1,0 +1,53 @@
+===========================
+   NETWORK RANGE & TRACEROUTE TOOLS
+===========================
+
+🔹 Online Traceroute & Network Info
+----------------------
+Traceroute Online       - https://www.traceroute.org/                - Web-based tool to perform traceroutes from multiple global locations.  
+GRC ShieldsUP           - https://www.grc.com/shieldsup              - Test firewall, network ports, and basic network footprinting.  
+Ping.eu                 - https://ping.eu/traceroute/                 - Online traceroute, ping, and DNS lookup tool.  
+IP Location Traceroute  - https://www.iplocation.net/traceroute      - Shows route hops along with geolocation info for each node.  
+
+🔹 GUI / Professional Tools
+----------------------
+NetScanTool Pro         - https://www.netscantool.com/               - Comprehensive network diagnostic tool for Windows with traceroute, ping, and port scanning.  
+PingPlotter             - https://www.pingplotter.com/                - Visual traceroute and network performance monitoring tool.  
+Traceroute NG           - https://www.solarwinds.com/free-tools/traceroute-ng - Advanced Windows traceroute and network path analysis tool.  
+
+🔹 Command-Line Traceroute Tools
+----------------------
+traceroute             - Standard CLI tool (Linux/macOS) to map the route to a target IP or domain.  
+tracert                - Windows built-in command to perform network route analysis.  
+mtr                    - Combines traceroute and ping for continuous network path monitoring.  
+pathping               - Windows tool combining ping and traceroute with packet loss analysis.  
+tcptraceroute          - TCP-based traceroute for testing firewalls and filtered networks.  
+
+🔹 Network Discovery & Range Tools
+----------------------
+Nmap                   - https://nmap.org/                           - Network scanner for discovering hosts, ports, and services.  
+Masscan                - https://github.com/robertdavidgraham/masscan - Ultra-fast network port scanner.  
+Angry IP Scanner       - https://angryip.org/                        - Simple GUI tool to scan IP ranges and network hosts.  
+Fping                  - https://fping.org/                           - Ping multiple hosts efficiently in batch mode.  
+Netdiscover            - https://github.com/alexxy/netdiscover        - ARP-based network scanning for local networks.  
+IPcalc                 - https://jodies.de/ipcalc/                     - Calculate network ranges, netmask, broadcast addresses, and subnet info.  
+
+🔹 Network Intelligence & Visualization
+----------------------
+Shodan                 - https://www.shodan.io/                        - Search connected devices, IP ranges, open ports, and services.  
+Censys                 - https://censys.io/                            - Internet-wide scanning for hosts, networks, and certificates.  
+ZoomEye                - https://www.zoomeye.org/                      - Global device and service search engine.  
+IPinfo                 - https://ipinfo.io/                             - IP geolocation, ASN, and network ownership info.  
+
+===========================
+   LEGAL DISCLAIMER
+===========================
+These tools are for educational, research, and authorized security testing only.  
+
+⚠️ Unauthorized scanning, probing, or mapping of networks without permission 
+is illegal and may violate computer misuse and privacy laws.  
+
+Use only for:
+- Networks you own
+- Networks you have explicit authorization to test
+- Controlled lab environments for learning  

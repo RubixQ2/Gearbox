@@ -1,0 +1,50 @@
+===========================
+   DARK WEB & THREAT INTELLIGENCE TOOLS
+===========================
+
+🔹 Dark Web Search Engines
+---------------------------
+Ahmia              - https://ahmia.fi/                  - Search engine for .onion sites on the Tor network.
+Candle             - http://gjobqjj7wyczbqie.onion/    - Minimalistic Tor search engine for .onion sites.
+TorLinks           - http://torlinkbgs6aabns.onion/    - Directory of .onion sites; helps discover dark web resources.
+DarkSearch         - https://darksearch.io/            - Tor and dark web search engine with modern OSINT integration.
+
+🔹 Dark Web Marketplaces & Directories
+---------------------------------------
+Hidden Wiki         - http://zqktlwi4fecvo6ri.onion/   - Popular dark web directory for accessing .onion sites.
+The Hub             - Tor hidden marketplace directory  - Directory listing multiple .onion marketplaces.
+
+🔹 Privacy & Anonymity Tools
+-----------------------------
+Tor Browser        - https://www.torproject.org/       - Browser for accessing the Tor network anonymously.
+Tails OS           - https://tails.boum.org/           - Privacy-focused live OS that leaves no trace on the machine.
+Whonix             - https://www.whonix.org/           - Security-focused OS for anonymous online activity using Tor.
+I2P                - https://geti2p.net/               - Anonymous overlay network for private communication.
+VPN Services       - Various providers                  - Encrypts traffic and masks IP addresses for privacy.
+
+🔹 Dark Web Forensic & Threat Intelligence Tools
+------------------------------------------------
+OnionScan          - https://github.com/s-rah/onionscan  - Analyzes security and configuration of Tor hidden services.
+Maltego            - https://www.maltego.com/           - OSINT platform for mapping relationships and networks, including dark web links.
+Memex              - https://www.usc.edu/ (DARPA Memex)  - Dark web analysis platform for research and law enforcement.
+TorBot             - https://github.com/1N3/TorBot        - Automated crawler for Tor hidden services enumeration.
+Creepy             - https://www.geocreepy.com/         - Geolocation tool that can correlate social media and dark web data.
+DarkOwl Vision     - https://www.darkowl.com/           - Provides access to dark web data and threat intelligence feeds.
+Intelligence X     - https://intelx.io/                  - OSINT and historical data search platform including dark web leaks.
+Cyble              - https://cyble.io/                   - Threat intelligence platform monitoring dark web and cybercrime activities.
+KELA               - https://kela.io/                     - Cyber threat intelligence platform focusing on dark web, fraud, and data leaks.
+Recorded Future    - https://www.recordedfuture.com/   - Threat intelligence platform monitoring dark web and deep web sources.
+
+===========================
+   LEGAL DISCLAIMER
+===========================
+These tools are intended for educational, research, and authorized security testing purposes only.
+
+⚠️ Unauthorized access, browsing, or interaction with dark web sites without explicit permission is illegal and may involve serious legal consequences.
+
+Use these tools only on:
+- Dark web content for research and learning in controlled environments
+- Data you have explicit permission to analyze
+- OSINT and threat intelligence purposes ethically
+
+The author assumes no responsibility for misuse of this information. Always act ethically and within the boundaries of the law.

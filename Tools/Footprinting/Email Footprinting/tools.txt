@@ -1,0 +1,49 @@
+===========================
+   EMAIL FOOTPRINTING TOOLS
+===========================
+
+🔹 1. Email Lookup & Verification
+----------------------
+Purpose: Discover and verify email addresses, validate deliverability.
+Hunter.io               - https://hunter.io/                      - Find email addresses associated with a domain and verify deliverability.  
+VoilaNorbert            - https://www.voilanorbert.com/           - Email finding and verification tool for professionals.  
+FindThatLead            - https://findthatlead.com/                - Discover emails for leads and verify them.  
+Clearbit Connect        - https://connect.clearbit.com/           - Enrich email addresses with company and personal information.  
+Snov.io                 - https://snov.io/                         - Email finder, verifier, and outreach automation platform.  
+Mailboxlayer            - https://mailboxlayer.com/                - Real-time email verification API.  
+EmailHippo              - https://emailhippo.com/                  - Email verification and risk assessment.  
+VerifyEmailAddress      - https://verify-email.org/                 - Check validity of email addresses instantly.  
+
+🔹 2. Email OSINT & Online Presence Recon
+----------------------
+Purpose: Gather intelligence on emails, identify associated accounts, and track online presence.
+Holehe                  - https://github.com/megadose/holehe       - Check which online services an email is registered with.  
+Social Catfish          - https://socialcatfish.com/               - Verify identities using emails and cross-check social profiles.  
+Dehashed                - https://www.dehashed.com/                - Search leaked credentials and associated email breaches.  
+TheHarvester            - https://github.com/laramies/theHarvester - Gather emails, subdomains, and names from public sources.  
+Emailrep.io             - https://emailrep.io/                       - Provides reputation, domain info, and breach data for an email.  
+HaveIBeenPwned          - https://haveibeenpwned.com/               - Check if an email has been part of known data breaches.  
+HunterOSINT             - https://hunter.io/osint                      - Advanced search of emails for open source intelligence gathering.  
+Intel Techniques Email  - https://inteltechniques.com/               - OSINT resources including email footprinting.  
+
+🔹 3. Email Metadata Extraction & Tracking
+----------------------
+Purpose: Analyze email headers, extract technical info, and monitor email delivery.
+Mailheader Analyzer      - https://mxtoolbox.com/EmailHeaders.aspx    - Analyze full email headers for origin, route, and IP info.  
+Metacoda                 - https://metacoda.com/                        - Extract metadata and trace email sources.  
+EmailTrackersPro         - https://emailtrackerspro.com/               - Track email opens and monitor delivery.  
+Email Tracker Tools      - https://www.whatsthetracker.com/           - Track email opens and origin (for legitimate tracking/analysis).  
+
+===========================
+   LEGAL DISCLAIMER
+===========================
+These tools are provided for educational, research, and authorized 
+security testing purposes only.  
+
+⚠️ Unauthorized access, tracking, or misuse of email data without consent 
+is illegal and may violate privacy and anti-spam laws.  
+
+Use only for:
+- Emails you own
+- Emails you have explicit permission to test
+- Controlled lab environments for learning  

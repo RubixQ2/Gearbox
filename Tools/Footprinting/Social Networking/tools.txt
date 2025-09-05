@@ -1,0 +1,41 @@
+===========================
+   SOCIAL MEDIA FOOTPRINTING TOOLS
+===========================
+
+🔹 Social Media Mapping & Analysis
+----------------------------------
+Maltego Social Links   - https://www.maltego.com/           - OSINT platform for mapping relationships, connections, and social media profiles.
+Social Blade           - https://socialblade.com/           - Analytics and statistics for YouTube, Twitter, Instagram, and Twitch.
+Noxinfluencer          - https://www.noxinfluencer.com/     - Influencer analytics tool; gathers social account data and engagement metrics.
+OSINT Combine          - https://osintcombine.com/         - Aggregates multiple social media footprinting tools.
+
+🔹 Social Media Search Engines
+-------------------------------
+Social-Searcher        - https://www.social-searcher.com/  - Search across multiple social networks to track public posts and mentions.
+Pipl                   - https://pipl.com/                  - People search engine; finds social profiles, emails, and other online identities.
+Intel Techniques       - https://inteltechniques.com/osint/ - Collection of guides and tools for social media investigation.
+
+🔹 Social Media Scraping Tools
+-------------------------------
+Twint                  - https://github.com/twintproject/twint - Twitter OSINT tool for scraping profiles and tweets without API.
+Sherlock               - https://github.com/sherlock-project/sherlock - Finds usernames across social media platforms.
+Instagram Scraper      - https://github.com/rarcega/instagram-scraper - Scrapes Instagram public profiles and posts.
+Facebook Graph Search  - https://www.facebook.com/graphsearch/ - Tool to query Facebook for public profile info, posts, and connections.
+
+🔹 Geolocation & Activity Tracking
+----------------------------------
+Creepy                 - https://www.geocreepy.com/        - Geolocation tool for mapping social media posts and activity.
+
+===========================
+   LEGAL DISCLAIMER
+===========================
+These tools are intended for educational, research, and authorized security testing purposes only.
+
+⚠️ Unauthorized collection, profiling, or monitoring of social media accounts without consent is illegal and may violate privacy laws.
+
+Use these tools only on:
+- Publicly available social media data
+- Data for research, analysis, or learning purposes
+- Organizations or profiles where you have explicit permission
+
+The author assumes no responsibility for misuse of this information. Always act ethically and within the boundaries of the law.

@@ -1,0 +1,32 @@
+===========================
+AUTOMATED FOOTPRINTING TOOLS
+===========================
+
+Maltego                  - https://www.maltego.com/                   - Automated link analysis and OSINT data mining for domains, emails, and social profiles.  
+Recon-ng                 - https://bitbucket.org/LaNMaSteR53/recon-ng  - Modular framework to automate web reconnaissance and data collection.  
+FOCA                     - https://www.elevenpaths.com/labstools/foca/index.html - Automates metadata extraction from documents for domain/network intelligence.  
+Subfinder                - https://github.com/projectdiscovery/subfinder - Automatically discovers subdomains for reconnaissance.  
+Sudomy                   - https://github.com/screetsec/Sudomy           - Automated subdomain discovery tool.  
+TheHarvester             - https://github.com/laramies/theHarvester      - Automates collection of emails, subdomains, and names from public sources.  
+Recon-dog                - https://github.com/UltimateHackers/ReconDog - Automated reconnaissance for domains, IPs, and subdomains.  
+Raccoon                  - https://github.com/TheMightyGreek/Raccoon    - Automates web reconnaissance and information gathering on domains and IPs.  
+Orb                      - https://github.com/SECURITYGURU123/Orb       - Automated framework for website and server information collection.  
+Webcheck                 - https://github.com/hisxo/webcheck           - Automates OSINT-based web application and server reconnaissance.  
+WhatWeb                  - https://github.com/urbanadventurer/WhatWeb  - Automatically identifies web technologies, servers, and CMS platforms.  
+BillCipher               - https://github.com/s0md3v/BillCipher         - Automated footprinting and reconnaissance tool for domains and networks.  
+OSINT.sh                 - https://osint.sh/                            - Shell-based automation tool for OSINT reconnaissance tasks.  
+
+
+===========================
+   LEGAL DISCLAIMER
+===========================
+These tools are provided for educational, research, and authorized 
+security testing purposes only.  
+
+⚠️ Unauthorized scanning, footprinting, or data collection without consent 
+is illegal and may violate privacy, computer misuse, and anti-spam laws.  
+
+Use only on:
+- Systems you own
+- Systems you have explicit permission to test
+- Controlled lab environments for learning  

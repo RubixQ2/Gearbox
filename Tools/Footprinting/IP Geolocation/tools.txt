@@ -1,0 +1,40 @@
+===========================
+   IP GEOLOCATION INFO TOOLS
+===========================
+
+🔹 Online IP Geolocation Services
+----------------------
+IPinfo           - https://ipinfo.io/                     - Provides detailed IP data such as geolocation, ASN, hostname, and ISP info.  
+MaxMind GeoIP    - https://www.maxmind.com/en/geoip2-services - Industry-standard IP geolocation database and API service.  
+IP2Location      - https://www.ip2location.com/            - Offers IP geolocation, proxy detection, and time zone lookup.  
+IP Location      - https://www.iplocation.net/             - Free service that checks IP geolocation using multiple databases.  
+DB-IP            - https://db-ip.com/                      - Provides IP geolocation API and database services.  
+ipapi            - https://ipapi.co/                       - Real-time IP address lookup with location, ASN, and threat data.  
+GeoIPTool        - https://geoiptool.com/                  - Simple tool to check geolocation, ISP, and IP information.  
+WhatIsMyIP       - https://whatismyipaddress.com/ip-lookup - Shows IP, ISP, proxy detection, and geolocation details.  
+
+🔹 Command-Line Tools
+----------------------
+geoiplookup      - Linux CLI tool to query IP geolocation from databases like MaxMind.  
+curl ipinfo.io   - Simple cURL query to fetch IP details from IPinfo API.  
+ip2location-cli  - CLI client for querying IP2Location databases.  
+
+🔹 Advanced/Threat Intelligence
+----------------------
+AbuseIPDB        - https://www.abuseipdb.com/              - IP reputation checker with geolocation and malicious activity reports.  
+VirusTotal IP    - https://www.virustotal.com/gui/home/search - Allows IP search to view geolocation and threat intelligence data.  
+Shodan           - https://www.shodan.io/                  - Search engine for internet-connected devices with IP geolocation context.  
+
+===========================
+   LEGAL DISCLAIMER
+===========================
+These tools are provided for educational, research, and authorized 
+security testing purposes only.  
+
+⚠️ Unauthorized tracking, monitoring, or misuse of geolocation services 
+without proper consent is illegal and may violate privacy and cyber laws.  
+
+Use only for:
+- Systems you own
+- Systems you have explicit permission to test
+- Controlled labs for research/learning  

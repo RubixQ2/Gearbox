@@ -1,0 +1,65 @@
+===========================
+     VIDEO FOOTPRINTING TOOLS
+===========================
+
+
+🔹 YouTube / Social Video Metadata
+----------------------
+YouTube Metadata 					– https://www.youtubemetadata.com/ 			– Extract detailed metadata from YouTube videos including upload date, title, description, and tags.
+YouTube DataViewer 					– https://citizenevidence.amnestyusa.org/ 	– Track upload times and metadata of YouTube videos.
+Social Blade 						– https://socialblade.com/ 					– Analytics platform for social media channels and video statistics.
+Noxinfluencer 						– https://www.noxinfluencer.com/ 			– Social media and YouTube analytics tool to track performance and engagement.
+	
+
+🔹 Video Verification & Reverse Search
+----------------------
+VideoReverser.com 					– https://www.videoreverser.com/ 			– Reverse video search to track duplicate or similar videos.
+Mattw.io 							– https://mattw.io/ 						– Video and image analysis tool for OSINT investigations.
+Google Video Search 				– https://www.google.com/videohp 			– Google’s video search for duplicates and related content.
+InVid / Verification Plugin 		– https://www.invid-project.eu/tools-and-services/invid-verification-plugin/ – Video verification, keyframe extraction, and reverse search.
+InVID Keyframe Extractor 			– https://www.invid-project.eu/tools/keyframe-extractor/ – Extract frames for reverse image/video searches.
+
+
+🔹 Video / Image Forensics
+----------------------
+Deepware Scanner 					– https://deepware.ai/ 									– Deepfake detection and video verification.
+Error Level Analysis (ELA) 			– https://29a.ch/photo-forensics/#error-level-analysis 	– Detect manipulation in video frames or images.
+FotoForensics 						– https://fotoforensics.com/ 							– Image and frame forensic analysis for detecting editing or manipulation.
+Forensically 						– https://29a.ch/photo-forensics/ 						– Suite for image/video forensics including clone detection and noise analysis.
+Amber Video 						– https://www.ambervideo.com/ 							– AI-powered verification for deepfakes and manipulated videos.
+Shadow Analysis 					– https://github.com/shadow-analysis 					– OSINT tool for investigating video sources and anomalies.
+
+
+🔹 Technical Analysis Tools
+----------------------
+MW Metadata 						– https://www.mw-metadata.com/ 							– Online tool to view metadata of video and image files.
+Ezgif 								– https://ezgif.com/ 									– Online platform for video editing and extracting technical info like frames and GIF conversion.
+FFmpeg 								– https://ffmpeg.org/ 									– Command-line tool to inspect, convert, and extract video file information.
+MediaInfo 							– https://mediaarea.net/en/MediaInfo 					– Detailed technical analysis of video files (codec, frame rate, bitrate, etc.).
+yt-dlp / youtube-dl 				– https://github.com/yt-dlp/yt-dlp 						– Download videos and extract metadata from YouTube and other platforms.
+
+
+🔹 Enterprise / Professional Forensics
+----------------------
+Amper Video Forensics 				– https://ampervideo.com/forensics 						– Professional tool for forensic video analysis.
+X1 Social social-discovery			– https://www.x1.com/products/social-discovery/ 		– Video and social media evidence collection tool.
+Cognitech Video Investigator 		– https://www.cognitech.com/products/video-investigator/ – Enterprise-level video forensic investigation software.
+
+
+
+
+
+
+===========================
+       LEGAL DISCLAIMER
+===========================
+These video footprinting and forensic tools are intended for educational, research, and authorized investigative purposes only. 
+
+⚠️ Unauthorized use to access, download, or manipulate videos without consent may violate privacy, copyright, or computer laws. 
+
+Use these tools only on:
+- Publicly available videos
+- Systems you own
+- Platforms you have explicit permission to analyze
+
+Always act ethically and legally when performing video footprinting and forensic analysis.

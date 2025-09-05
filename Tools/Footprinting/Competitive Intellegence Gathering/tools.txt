@@ -1,0 +1,71 @@
+===========================
+ COMPETITIVE INTELLIGENCE GATHERING TOOLS
+===========================
+
+🔹 Company Information & Market Research
+----------------------------------------
+Crunchbase              - https://www.crunchbase.com/               - Database of company funding, investors, and acquisitions.
+Owler                   - https://www.owler.com/                    - Competitive intelligence tool tracking news, funding, and company comparisons.
+ZoomInfo                - https://www.zoominfo.com/                 - Provides business data, company insights, and contact info.
+CB Insights             - https://www.cbinsights.com/               - Market intelligence platform for startups, investors, and emerging tech.
+PrivCo                  - https://www.privco.com/                   - Private company financials and business intelligence.
+Kompass                 - https://www.kompass.com/                  - B2B database with company profiles, market research, and trade info.
+Euromonitor             - https://www.euromonitor.com/              - Global market research reports and competitive analysis.
+Experian                - https://www.experian.com/                 - Provides business credit reports, risk data, and intelligence.
+
+🔹 Financial & Legal Filings
+----------------------------
+EDGAR (SEC)             - https://www.sec.gov/edgar.shtml           - U.S. SEC filings database for financial and corporate disclosures.
+LexisNexis              - https://legal.lexisnexis.com/             - Legal, business, and news intelligence for competitive and compliance research.
+ABI/INFORM Global       - https://about.proquest.com/en/products-services/abi_inform/ - Business and financial research database.
+Wall Street Transcript  - https://www.twst.com/                     - Reports and interviews with industry executives and analysts.
+
+🔹 News & Press Releases
+------------------------
+BusinessWire            - https://www.businesswire.com/             - Press release distribution for company updates.
+Factiva                 - https://professional.dowjones.com/factiva/ - Global news and business intelligence platform.
+MarketWatch             - https://www.marketwatch.com/              - Stock market and financial news for competitive tracking.
+
+🔹 Website & Technology Profiling
+---------------------------------
+BuiltWith               - https://builtwith.com/                    - Analyzes websites for technologies, hosting, analytics, and frameworks used.
+Wappalyzer              - https://www.wappalyzer.com/               - Identifies technologies used by websites (CMS, frameworks, analytics).
+SimilarTech             - https://www.similartech.com/              - Technology and market share analysis of websites.
+WhatRuns                - https://www.whatruns.com/                 - Browser extension for detecting website technologies.
+
+🔹 SEO & Competitor Traffic Analysis
+------------------------------------
+SimilarWeb              - https://www.similarweb.com/               - Provides website traffic, sources, and audience analysis.
+SEMrush                 - https://www.semrush.com/                  - Competitive SEO, keywords, traffic, and advertising analysis.
+SE Ranking              - https://seranking.com/                    - SEO tool for keyword tracking, competitor research, and backlink monitoring.
+Ahrefs                  - https://ahrefs.com/                       - Backlink analysis, keyword ranking, and competitor site monitoring.
+SpyFu                   - https://www.spyfu.com/                    - Competitor keyword and PPC advertising research.
+Moz                     - https://moz.com/                          - SEO research and competitive domain analysis.
+Ubersuggest             - https://neilpatel.com/ubersuggest/        - Free SEO tool for keyword and competitor research.
+The Search Monitor      - https://www.thesearchmonitor.com/         - Competitive intelligence for paid search, SEO, and affiliate monitoring.
+
+🔹 Intellectual Property & Patents
+----------------------------------
+USPTO                   - https://www.uspto.gov/                    - U.S. Patent and Trademark Office database for patents and trademarks.
+
+🔹 Social & News Monitoring
+---------------------------
+Mention                 - https://mention.com/                      - Real-time monitoring of brand mentions across social and web.
+Brandwatch              - https://www.brandwatch.com/               - Social media listening and competitor trend tracking.
+Meltwater               - https://www.meltwater.com/                - Media monitoring and competitive intelligence platform.
+Talkwalker              - https://www.talkwalker.com/               - AI-powered social and market monitoring tool.
+
+===========================
+ LEGAL DISCLAIMER
+===========================
+These tools are intended for **market research, competitive analysis, and authorized business intelligence** only.
+
+⚠️ Misusing these tools for corporate espionage, data theft, or unauthorized surveillance is illegal and may violate privacy, intellectual property, and competition laws.  
+
+Use these tools only for:
+- Publicly available company data
+- Market and SEO research
+- Legal and compliance purposes
+- Competitive benchmarking with consent or compliance
+
+The author assumes no responsibility for misuse. Always act ethically, legally, and within business compliance boundaries.

@@ -1,0 +1,69 @@
+===========================
+ Image Footprinting Tools
+===========================
+
+🔹 Reverse Image Search
+-----------------------
+
+Google Images 				- https://images.google.com/ 					- Standard reverse image search to find image matches online
+Google Advanced Image Search- https://www.google.com/advanced_image_search 	- Refined Google image search with filters like size, color, type, and date
+Google Image Upload 		- https://www.google.com/imghp 					- Upload an image to search visually for matches on the web
+Yandex Images 				- https://yandex.com/images/ 					- Russian search engine with strong reverse image and face search capabilities
+Bing Visual Search			- https://www.bing.com/visualsearch 			- Reverse image search with web and shopping results
+Yahoo Images 				- https://images.search.yahoo.com/ 				- Reverse image search powered by Yahoo search engine
+TinEye 						- https://tineye.com/ 							- Dedicated reverse image search engine for tracking image origin and usage
+PimEyes 					- https://pimeyes.com/ 							- Facial recognition search engine to find similar faces online
+Social Catfish 				- https://socialcatfish.com/ 					- Reverse lookup tool to verify identities using images and social profiles
+Pinterest Image Search 		- https://www.pinterest.com/ 					- Search visually similar images across Pinterest pins
+Shutterstock Reverse Image 	- https://www.shutterstock.com/search 			- Reverse search for stock images and visual matches
+Karma Decay (Reddit) 		- https://karmadecay.com/ 						- Reverse image search specifically for Reddit posts
+
+
+🔹 Meta Data Extraction
+-----------------------
+
+ExifTool 				- https://exif.tools/ 									- Command-line tool to read, write, and edit metadata in images, videos, and documents
+Metadata2Go 			- https://www.metadata2go.com/ 							- Online tool to view hidden metadata in images, documents, audio, and video
+FOCA 					- https://www.elevenpaths.com/labstools/foca/index.html - Extracts metadata from documents and analyzes network footprinting
+Jeffrey’s Image Metadata Viewer - http://exif.regex.info/exif.cgi 				- Online EXIF viewer showing camera info, GPS, and editing history
+Exif Pilot 				- https://www.colorpilot.com/exif.html 					- Windows tool to view, create, and edit image metadata
+mat2 (CLI) 				- https://0xacab.org/jvoisin/mat2 						- Command-line tool to analyze and remove metadata for privacy protection
+
+🔹 Image Forensics
+-------------------
+
+FotoForensics 				- https://fotoforensics.com/ 										- Image forensics tool performing pixel-level and error level analysis (ELA)
+Forensically 				- https://29a.ch/photo-forensics/#forensic-magnifier 				- Online forensic suite for clone detection, noise analysis, and ELA
+Image Edited 				- https://imageedited.com/ 											- Detects possible Photoshop/AI edits in images
+Ghiro 						- https://www.getghiro.org/ 										- Automated image forensics framework for batch analysis of images
+InVID Verification Plugin 	- https://www.invid-project.eu/tools-and-services/invid-verification-plugin/ 	- Browser plugin for verifying videos and images
+Izitru 						- http://www.izitru.com/ 											- Online image authentication service to check if an image is original
+
+🔹 Geolocation
+-------------------
+
+Mapillary 		- https://www.mapillary.com/ 	- Street-level imagery platform to verify locations in images
+Google Earth 	- https://earth.google.com/ 	- Satellite imagery and maps for geolocation verification
+GeoSpy 			- https://geospy.ai/ 			- AI-powered geolocation verification tool
+SunCalc 		- https://www.suncalc.org/ 		- Calculates sun position for verifying time and location in images
+Wikimapia 		- http://wikimapia.org/ 		- Map platform for location context and verification
+OpenStreetCam 	- https://openstreetcam.org/ 	- Street-level imagery for geolocation and OSINT analysis
+
+🔹 CLI Tools
+-------------------
+
+exiftool 		- Command-line tool to extract metadata from images
+mat2 			- CLI tool to remove metadata from images and documents for privacy
+strings 		- Extract readable text from binaries and images
+binwalk 		- Analyze images for embedded files or hidden data
+steghide 		- Hide and extract data inside images or audio files
+zsteg 			- Detect hidden data in PNG/BMP files for steganography
+identify (ImageMagick) 	- Get image format, metadata, and properties
+ffmpeg 			- Extract frames and metadata from videos
+
+
+===========================
+ LEGAL DISCLAIMER
+===========================
+These tools are for educational and authorized security testing only.
+Unauthorized use against systems without consent is illegal.

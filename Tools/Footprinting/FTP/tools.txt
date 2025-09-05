@@ -1,0 +1,40 @@
+===========================
+   FTP & FILE SEARCH TOOLS 
+===========================
+
+🔹 FTP Search Engines
+----------------------
+NAPALM FTP Indexer        - https://www.napalmftp.com/          - FTP search engine to find publicly available files across FTP servers.
+FreewareWeb FTP File Search - http://www.freewareweb.com/ftp-search/ - Search for software and files hosted on FTP servers.
+Mamont                     - http://mamontsearch.com/           - Search engine for indexing FTP servers and network shares.
+GlobalFileSearch.com       - https://www.globalfilesearch.com/ - Web-based tool to search for files across FTP and HTTP servers.
+Filemare                   - https://filemare.com/              - Search engine for locating files on FTP servers.
+nerdyDATA                  - https://www.nerdydata.com/         - Search engine for exposed source code and text files online.
+FTP Search                 - http://www.ftpsearch.com/          - Indexes FTP servers to locate publicly shared files.
+Nice FTP Search Engine     - https://sourceforge.net/projects/nice-ftp-search/ - Open-source FTP search engine written in Java.
+Archie (Archived)          - https://archie.serialport.org/     - The first Internet search engine, indexing FTP archives; now archived.
+
+
+🔹 FTP / File Access Clients
+-----------------------------
+WebDrive                   - https://www.webdrive.com/          - Drive mapping utility supporting FTP, FTPS, SFTP, and WebDAV protocols.
+Nomad.NET                  - http://www.nomad-net.info          - Freeware file manager with built-in FTP client and advanced search capabilities.
+Cyberduck                  - https://cyberduck.io/              - Libre server and cloud storage browser supporting FTP, SFTP, WebDAV, and cloud storage protocols.
+Monsta FTP                 - https://www.monstaftp.com/         - Web-based FTP client developed in PHP & AJAX for managing websites through a browser.
+FileZilla                  - https://filezilla-project.org/     - Free FTP solution supporting FTP, FTPS, and SFTP protocols.
+
+
+
+===========================
+   LEGAL DISCLAIMER
+===========================
+These tools are intended for **educational, research, and authorized security testing purposes only**.
+
+⚠️ Unauthorized use to access, download, or exploit files from FTP servers or connected systems **without explicit permission** is illegal and may violate computer misuse and privacy laws.
+
+Use these tools only on:
+- Systems you own
+- Systems you have written consent to test
+- Controlled lab environments for learning
+
+The author assumes no responsibility for misuse of this information. Always act ethically and within the boundaries of the law.

@@ -1,0 +1,52 @@
+===========================
+   WHOIS LOOKUP & DOMAIN INTEL TOOLS
+===========================
+
+🔹 General WHOIS Lookup
+----------------------
+ICANN Lookup            - https://lookup.icann.org/                         - Official ICANN WHOIS/RDAP lookup for domain registration and registrar data.
+Who.is                  - https://who.is/                                    - Simple, fast WHOIS viewer for domains and IPs.
+Whois.com               - https://whois.com/whois/                           - Basic WHOIS for owner, registrar, nameservers, and expiry.
+Whois.net               - https://www.whois.net/                             - WHOIS lookup for domains, IPs, and registrant details.
+DomainTools WHOIS       - https://whois.domaintools.com/                     - Detailed WHOIS lookups with historical snapshots (paid features).
+ViewDNS.info            - https://viewdns.info/whois/                        - WHOIS plus multi-tool suite (reverse WHOIS, DNS history, subdomains).
+HackerTarget WHOIS      - https://hackertarget.com/whois-lookup/             - Quick WHOIS lookup with extra DNS/report links.
+
+🔹 Advanced / Reverse WHOIS & Historical
+---------------------------------------
+Whoisology             - https://whoisology.com/                            - Reverse WHOIS and large archive of historical ownership records.
+DomainBigData          - https://domainbigdata.com/                         - Historic WHOIS, registrant mapping, related domains by owner.
+SecurityTrails         - https://securitytrails.com/                        - Domain/DNS history, reverse DNS/WHOIS-style pivots and tech intel.
+DomainIQ               - https://www.domainiq.com/                          - Domain intelligence with reverse ownership and portfolio views.
+DNSlytics              - https://dnslytics.com/whois                        - WHOIS with DNS/host pivots (reverse NS/MX, IP, AS lookups).
+Robtex                 - https://www.robtex.com/                            - Graphs domain/IP/AS relations; useful for ownership and infra pivots.
+
+🔹 Regional Internet Registries (IP/ASN WHOIS) & RDAP
+----------------------------------------------------
+ARIN (North America)    - https://search.arin.net/rdap/                      - IP/ASN WHOIS via RDAP for North America.
+RIPE NCC (EU/ME/Central Asia) - https://apps.db.ripe.net/db-web-ui/query     - IP/ASN WHOIS and abuse contacts.
+APNIC (Asia-Pacific)    - https://wq.apnic.net/                              - IP/ASN WHOIS for APAC.
+LACNIC (Latin America)  - https://lacnic.net/cgi-bin/lacnic/whois            - IP/ASN WHOIS for LAC region.
+AFRINIC (Africa)        - https://whois.afrinic.net/                         - IP/ASN WHOIS for Africa.
+IANA RDAP Bootstrap     - https://www.iana.org/rdap                          - RDAP directories and bootstrap data for domains/IPs.
+
+🔹 APIs & Automation
+-------------------
+WhoisXML API            - https://whoisxmlapi.com/                           - Commercial WHOIS/RDAP APIs, parsed data, reverse WHOIS, history.
+WhoXY (Whoxy)           - https://www.whoxy.com/                             - WHOIS API with live, history, and reverse WHOIS endpoints.
+JSONWhois API           - https://jsonwhoisapi.com/                          - Parsed WHOIS returned in JSON; developer-friendly REST API.
+IPinfo WHOIS API        - https://ipinfo.io/products/whois-api               - WHOIS/RDAP for domains with enrichment for IP/ASN ownership.
+IP2WHOIS                - https://www.ip2whois.com/                          - WHOIS lookup & API with parsed domain ownership fields.
+
+🔹 CLI & Libraries
+------------------
+whois (CLI)             - https://github.com/rfc1036/whois                   - Standard UNIX/Linux WHOIS client for querying WHOIS servers.
+ipwhois (Python)        - https://github.com/secynic/ipwhois                 - Python library for IP WHOIS/RDAP lookups and parsing.
+
+===========================
+   LEGAL DISCLAIMER
+===========================
+These tools are for educational, research, and authorized administrative/security use only.
+Accessing, storing, or using registration data in violation of terms, privacy laws (e.g., GDPR),
+or anti-spam regulations may be illegal. Use only on targets you’re authorized to investigate,
+and comply with all applicable laws and data-use policies.

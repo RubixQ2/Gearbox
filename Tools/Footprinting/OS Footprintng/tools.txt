@@ -1,0 +1,32 @@
+===========================
+   OPERATING SYSTEM FOOTPRINTING TOOLS
+===========================
+
+🔹 OS Detection & Fingerprinting Tools
+--------------------------------------
+Nmap                - https://nmap.org/                  - Network scanner with OS detection capabilities using TCP/IP fingerprinting.
+XProbe2             - https://xprobe2.sourceforge.net/   - Active OS fingerprinting tool using ICMP and TCP probes.
+p0f                 - https://lcamtuf.coredump.cx/p0f3/  - Passive OS fingerprinting via analyzing network traffic.
+Netcraft            - https://www.netcraft.com/          - Provides OS and web server detection for sites via online queries.
+WhatWeb             - https://github.com/urbanadventurer/WhatWeb - Detects web technologies, server OS, and applications.
+Wappalyzer          - https://www.wappalyzer.com/        - Browser extension & service that detects OS, frameworks, and server software.
+Shodan              - https://www.shodan.io/             - Search engine for IoT and internet-connected devices; detects OS, services, and vulnerabilities.
+Censys              - https://censys.io/                 - Internet-wide scanning platform to identify OS, hosts, and exposed services.
+FingerprintJS       - https://fingerprintjs.com/         - Client-side OS and browser fingerprinting library.
+OSINT Framework     - https://osintframework.com/        - Directory of OSINT tools, including OS footprinting resources.
+NetBIOS Enumerator  - Various scripts/tools               - Enumerates Windows OS versions and network shares on local networks.
+Nessus              - https://www.tenable.com/products/nessus - Vulnerability scanner providing OS info during scans.
+
+===========================
+   LEGAL DISCLAIMER
+===========================
+These tools are intended for educational, research, and authorized security testing purposes only.
+
+⚠️ Unauthorized use to scan or probe systems without explicit permission is illegal and may violate computer misuse and privacy laws.
+
+Use these tools only on:
+- Systems you own or have written consent to test
+- Controlled lab environments for learning
+- Ethical security assessments
+
+The author assumes no responsibility for misuse of this information. Always act ethically and within the boundaries of the law.

@@ -1,0 +1,44 @@
+===========================
+   DNS TOOLS & LOOKUP
+===========================
+
+🔹 Online DNS Lookup Tools
+----------------------
+MXToolbox           - https://mxtoolbox.com/                  - Lookup DNS records, MX, SPF, DKIM, and blacklist status.  
+DNSstuff             - https://www.dnsstuff.com/              - Comprehensive DNS diagnostics and domain testing.  
+ViewDNS.info         - https://viewdns.info/                  - Multi-tool suite including DNS, reverse DNS, and trace routes.  
+WhatsMyDNS.net       - https://www.whatsmydns.net/           - Global DNS propagation checker for A, MX, CNAME, and TXT records.  
+DNS Checker          - https://dnschecker.org/               - Check DNS records across multiple locations worldwide.  
+CentralOps           - https://centralops.net/co/             - Domain/DNS research with host, traceroute, and WHOIS info.  
+
+🔹 Command-Line / Recon DNS Tools
+----------------------
+DNSRecon             - https://github.com/darkoperator/dnsrecon      - Python tool for DNS enumeration and record discovery.  
+Fierce               - https://github.com/mschwager/fierce           - DNS reconnaissance scanner for domain and subdomain discovery.  
+Reverse IP Lookup    - https://www.yougetsignal.com/tools/web-sites-on-web-server/ - Identify all domains hosted on a given IP.  
+PureDNS              - https://github.com/d3mondev/puredns           - Fast passive DNS resolver for subdomain enumeration.  
+Bluto              - It retrieves DNS records, conducts zone transfers, and performs reconnaissance on target DNS servers.
+
+🔹 DNS Security & Threat Intelligence
+----------------------
+SecurityTrails       - https://securitytrails.com/             - DNS history, subdomains, and threat intelligence.  
+PassiveTotal         - https://www.riskiq.com/                 - Passive DNS collection and historical domain intelligence.  
+Shodan               - https://www.shodan.io/                  - Search internet-connected devices and associated DNS/IP info.  
+VirusTotal           - https://www.virustotal.com/gui/home/search - Check DNS records for malicious domains or IPs.  
+
+🔹 DNS Automation & APIs
+----------------------
+Cloudflare DNS API   - https://api.cloudflare.com/              - Manage and query DNS records programmatically.  
+Google DNS-over-HTTPS API - https://developers.google.com/speed/public-dns/docs/doh - Secure DNS queries over HTTPS.  
+DNSDB API            - https://www.farsightsecurity.com/solutions/dnsdb/ - Passive DNS database API for historical DNS research.  
+
+===========================
+   LEGAL DISCLAIMER
+===========================
+These tools are for educational, research, and authorized security testing only.  
+
+⚠️ Unauthorized use of DNS tools to disrupt, intercept, or manipulate domain 
+systems without permission is illegal. Use only on:
+- Systems you own
+- Systems with explicit authorization
+- Controlled lab environments for learning

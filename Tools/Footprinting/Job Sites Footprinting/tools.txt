@@ -1,0 +1,35 @@
+===========================
+   JOB SITES FOOTPRINTING TOOLS
+===========================
+
+🔹 Job Search & Footprinting Platforms
+--------------------------------------
+LinkedIn            - https://www.linkedin.com/        - Professional networking platform; can be used to gather information about employees, roles, and company structures.
+Indeed              - https://www.indeed.com/          - Job listings aggregator; useful for analyzing company hiring trends and employee roles.
+Glassdoor           - https://www.glassdoor.com/       - Provides company reviews, salaries, and employee insights.
+Monster             - https://www.monster.com/         - Job listing site; can gather employee and company information.
+CareerBuilder       - https://www.careerbuilder.com/   - Job search platform; useful for OSINT about organizations and open positions.
+ZipRecruiter        - https://www.ziprecruiter.com/    - Aggregates job postings and company data.
+SimplyHired         - https://www.simplyhired.com/     - Job aggregator useful for analyzing hiring patterns.
+AngelList           - https://angel.co/                - Startup-focused job platform; useful for researching early-stage companies and roles.
+Hired               - https://hired.com/               - Tech-focused job marketplace; provides insights into company hiring and tech stack.
+Jobcase             - https://www.jobcase.com/         - Platform for worker community and job postings; OSINT for employee demographics.
+Naukri              - https://www.naukri.com/          - Leading job portal in India; useful for gathering information on companies, roles, and recruitment trends.
+TimesJobs           - https://www.timesjobs.com/       - Indian job portal providing insights into hiring patterns and company openings.
+Shine               - https://www.shine.com/           - Job search platform in India; can be used for OSINT on companies and employees.
+Upwork              - https://www.upwork.com/          - Freelance platform; can be used to analyze contractor skills and company projects.
+Freelancer          - https://www.freelancer.com/      - Freelance job platform; useful for profiling projects and company hiring practices.
+
+===========================
+   LEGAL DISCLAIMER
+===========================
+These tools are intended for educational, research, and authorized security testing purposes only.
+
+⚠️ Unauthorized use to collect, profile, or exploit employee or company information without consent is illegal and may violate privacy laws.
+
+Use these tools only on:
+- Publicly available job information
+- Data for research, analysis, or learning purposes
+- Organizations where you have explicit permission
+
+The author assumes no responsibility for misuse of this information. Always act ethically and within the boundaries of the law.

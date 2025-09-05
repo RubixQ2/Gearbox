@@ -1,0 +1,30 @@
+===========================
+ GOOGLE DORKING TOOLS 
+===========================
+
+🔹 Browser-Based Tools
+----------------------
+
+GHDB (Exploit-DB)          - https://www.exploit-db.com/google-hacking-database              - The largest database of ready-made dorks.
+DorkSearch                 - https://dorksearch.com/                                         - Lightweight search tool focused on Google dorks.
+GoogleDorksGenerator       - https://pentest-tools.com/information-gathering/google-hacking  - GUIbased tool to generate dorks
+
+🔹 Command-Line Tools
+----------------------
+
+GoogD0rker (Python)         - https://github.com/ZephrFish/GoogD0rker - Automates Google dorking queries.
+dork-cli                    - https://github.com/narkq/dork-cli       - Command-line tool for dorking.
+GHunt                       - https://github.com/mxrch/GHunt          - Focused on Google accounts (docs, calendars, profiles).
+
+
+🔹 Browser Extensions
+----------------------
+
+1. Search Diggity (Bishop Fox) - https://www.bishopfox.com/tools/google-hacking-diggity/ - Google/Bing dorking tool for vulnerabilities.
+
+
+===========================
+ LEGAL DISCLAIMER
+===========================
+These tools are for educational and authorized security testing only.
+Unauthorized use against systems without consent is illegal.

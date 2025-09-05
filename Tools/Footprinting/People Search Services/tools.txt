@@ -1,0 +1,34 @@
+===========================
+   PEOPLE SEARCH & OSINT TOOLS
+===========================
+
+🔹 People Search Engines
+------------------------
+Pipl               - https://pipl.com/                 - People search engine to find social profiles, contact info, and background details.
+Spokeo             - https://www.spokeo.com/          - Aggregates public records, social media, and online presence data for people lookup.
+Intelius           - https://www.intelius.com/        - Provides background checks, phone lookups, and public record searches.
+BeenVerified       - https://www.beenverified.com/    - Aggregates data from public records and online sources to find information about people.
+Whitepages         - https://www.whitepages.com/      - Online directory for contact info, addresses, and background details.
+ZabaSearch         - https://www.zabasearch.com/     - Free people search engine to locate addresses and phone numbers.
+PeekYou            - https://www.peekyou.com/         - Aggregates public web information to find social profiles and online activity.
+TruthFinder        - https://www.truthfinder.com/     - Deep web search engine for detailed background reports and social traces.
+FamilyTreeNow      - https://www.familytreenow.com/   - Genealogy-focused tool, also useful for locating people via public records.
+Radaris            - https://radaris.com/             - Provides people search, background info, and social connections.
+Pipl API           - https://pipl.com/dev/             - API for programmatic people search and identity verification.
+Social Searcher    - https://www.social-searcher.com/ - Search for public social media posts, profiles, and mentions.
+Peekier            - https://peekier.com/             - Privacy-focused people and information search engine.
+IntelTechniques    - https://inteltechniques.com/    - OSINT toolkit for people searches, social media reconnaissance, and online footprinting.
+
+===========================
+   LEGAL DISCLAIMER
+===========================
+These tools are intended for educational, research, and authorized security testing purposes only.
+
+⚠️ Unauthorized use to access, stalk, harass, or collect personal data without explicit permission is illegal and may violate privacy laws.
+
+Use these tools only on:
+- People who have consented to the search
+- Controlled lab environments for research/learning
+- Publicly available information ethically
+
+The author assumes no responsibility for misuse of this information. Always act ethically and within the boundaries of the law.
